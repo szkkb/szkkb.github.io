@@ -5,7 +5,7 @@ icon: creative
 order: 2
 ---
 
-ChatGPT一键复制。
+ChatGPT一键复制。改动测试。
 
 ## ChatGPT 客户端
 
