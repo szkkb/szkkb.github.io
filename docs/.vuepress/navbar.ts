@@ -54,7 +54,7 @@ export default navbar([
     text: "Contact",
     icon: "advance",
     children: [
-      { text: "微信", icon: "wechat", link: "https://img.newzone.top/wechat.svg" },
+      { text: "微信", icon: "wechat", link: "https://meixipro.com/wp-content/uploads/2023/04/WechatIMG149.jpeg" },
       { text: "Discord", icon: "group", link: "https://discord.gg/PZTQfJ4GjX" },
       { text: "RSS", icon: "rss", link: "https://newzone.top/rss.xml" },
     ],
