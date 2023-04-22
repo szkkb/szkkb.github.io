@@ -1,1 +1,0 @@
-import{_ as e,Y as t,Z as o,$ as n}from"./framework-0d329256.js";const _={},c=n("p",null,"这是一段测试",-1),s=[c];function a(l,r){return t(),o("div",null,s)}const u=e(_,[["render",a],["__file","DailyRoutine.html.vue"]]);export{u as default};
