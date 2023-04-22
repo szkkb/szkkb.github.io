@@ -8,12 +8,12 @@ export default hopeTheme({
   hostname: "https://newzone.top",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "萧磊",
+    url: "https://meixipro.com",
   },
 
   iconAssets: "iconfont",
-  logo: "/logo.svg",
+  logo: "/logo.png",
 
   // 是否全局启用路径导航
   breadcrumb: false,
