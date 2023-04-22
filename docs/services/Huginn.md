@@ -557,9 +557,6 @@ Agent Configuration:
 `timeout` - How long to wait for query to complete (in ms). Defaults to `10000`.
 
 `event_per_row` - Whether to create one Event per row returned, or one event with all rows as `results`. Defaults to `false`.
-
-**Authorization**
-
 `keyfile` - (String) The path (relative to where Huginn is running) to the JSON keyfile downloaded in step 5 above.
 
 Alternately, `keyfile` can be a hash:
