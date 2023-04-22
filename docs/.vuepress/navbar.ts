@@ -2,9 +2,9 @@ import { navbar } from "vuepress-theme-hope";
 
 // 精选图标：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#iconfont-%E7%B2%BE%E9%80%89%E5%9B%BE%E6%A0%87
 export default navbar([
-  { text: "博客", icon: "blog", link: "/blog" },
+  { text: "主页", icon: "blog", link: "/blog" },
   {
-    text: "代码",
+    text: "博客",
     icon: "code",
     prefix: "/",
     children: [
@@ -12,7 +12,7 @@ export default navbar([
       "code/AutoHotkey",
       "code/Electron",
       {
-        text: "页面开发",
+        text: "代码",
         icon: "vue",
         prefix: "",
         children: ["web/VuePress", "web/docsify", "deploy/VPS"],
@@ -20,12 +20,12 @@ export default navbar([
     ],
   },
   {
-    text: "应用",
+    text: "运动",
     icon: "app",
     prefix: "/",
     children: [
       "apps/Applist",
-      { text: "直播手册", icon: "quote", link: "apps/livestreaming/1_obs_basic" },
+      { text: "思考", icon: "quote", link: "apps/livestreaming/1_obs_basic" },
       {
         text: "服务/系统",
         icon: "any",
