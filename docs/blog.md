@@ -10,36 +10,4 @@ tagline: 一键配置专属自己私有的AI聊天机器人
 bgImage: https://meixipro.com/wp-content/uploads/2023/04/个人寄国际包裹走海运经验-1.png
 heroFullScreen: false
 ---
-#projects:
-#  - icon: project
-#    name: 项目名称
-#    desc: 项目详细描述
-#    link: https://meixipro.com
-#
-#  - icon: link
-#    name: 链接名称
-#    desc: 链接详细描述
-#    link: https://链接地址
-#
-#  - icon: book
-#    name: 书籍名称
-#    desc: 书籍详细描述
-#    link: https://你的书籍链接
-#
-#  - icon: article
-#    name: 文章名称
-#    desc: 文章详细描述
-#    link: https://你的文章链接
-#
-#  - icon: friend
-#    name: 伙伴名称
-#    desc: 伙伴详细介绍
-#    link: https://你的伙伴链接
-#
-#  - icon: /logo.svg
-#    name: 自定义项目
-#    desc: 自定义详细介绍
-#    link: https://你的自定义链接
-
-#footer: 自定义你的页脚文字
----
+<div style="text-align:center"> Copyright© 2022 深圳云广度科技有限公司版权所有 备案号:<a href-"https://beian.miit.gov.cn">粤ICP备2022099746号-1</a></div>
