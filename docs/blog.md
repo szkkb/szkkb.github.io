@@ -7,8 +7,9 @@ title: 互联网小白
 #heroImage: /logo.svg
 heroText: 互联网小白
 tagline: 盛年不重来，一日难再晨
-bgImage: [https://img.newzone.top/home-bg-1.jpg](https://meixipro.com/wp-content/uploads/2023/04/个人寄国际包裹走海运经验-1.png)]
+bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
+---
 #projects:
 #  - icon: project
 #    name: 项目名称
