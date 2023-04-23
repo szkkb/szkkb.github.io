@@ -12,4 +12,5 @@ icon: note
 这些一般都是方向性问题，需要深思熟虑。因为选择不同，结果不同。
 同时，也会出现很多解答题。公司某个业务板块在某个方向上出现了趋势下降，那么从整个行业趋势，竞争，产品等等方面来排查问题，一个个问题找到应对方案。
 这就是我在做选择题和解答题上的一些思考。
-<center>  Copyright© 2022 深圳云广度科技有限公司版权所有 备案号:[粤ICP备2022099746号-1](https://beian.miit.gov.cn)  </center>
+
+<div style="text-align:center"> Copyright© 2022 深圳云广度科技有限公司版权所有 备案号:<a href-"https://beian.miit.gov.cn">粤ICP备2022099746号-1</a></div>
