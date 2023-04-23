@@ -1,13 +1,13 @@
-> 萧磊开源笔记，项目来自LearnData的开源。
+> chat聊天机器人。
 
 <!-- TABLE OF CONTENTS 有序为<ol>，无序为<ul> -->
 <details>
   <summary>Table of Contents</summary>
   <ul>
-    <li><a href="#-初衷">✨ 初衷</a></li>
-    <li><a href="#-笔记结构">🧱 笔记结构</a></li>
-    <li><a href="#-搭建-LearnData">🍥 搭建 LearnData</a></li>
-    <li><a href="#-配置-LearnData">🔣 配置 LearnData</a></li>
+    <li><a href="#-chat">✨ chat</a></li>
+    <li><a href="#-prompts">🧱 prompts</a></li>
+    <li><a href="#-搭建-LearnData">🍥 搭建 </a></li>
+    <li><a href="#-配置-LearnData">🔣 配置 </a></li>
     <li><a href="#️-网站部署">🖥️ 网站部署</a></li>
     <li><a href="#-常见问题">🤔 常见问题</a></li>
     <li><a href="#-版本升级">🆙 版本升级</a></li>
@@ -21,7 +21,7 @@
    <img src="http://img.newzone.top/2022-12-04-11-58-19.svg" alt="Mail">
 </a>
 
-## ✨ 搭建自己的笔记系统
+## ✨ 搭建自己的chat机器人
 个人笔记
 健身运动
 活动发布
@@ -30,5 +30,3 @@
 ## 🍥 搭建网站
 网站基础
 小程序基础
-
-## 👏 这是给我媳妇看的
