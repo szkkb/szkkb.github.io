@@ -4,10 +4,10 @@ on:
   push:
     branches:
       # 确保这是你正在使用的分支名称
-      - main
+      - gh-pages
 
 jobs:
-  szkkb-build:
+  LearnData-build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -19,7 +19,7 @@ jobs:
           # submodules: true
 
       - name: Install pnpm
-        uses: pnpm/action-setup@v3
+        uses: pnpm/action-setup@v2
         with:
           version: 8
           run_install: true
@@ -27,7 +27,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '14.x'
+          node-version: 18
           cache: pnpm
 
       # 将读书笔记复制到静态页路径，然后构建页面
@@ -45,6 +45,3 @@ jobs:
           # 这是文档部署到的分支名称
           branch: gh-pages
           folder: docs/.vuepress/dist
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}  # 添加这一行
-          EMAIL_GITHUB: ${{ secrets.EMAIL_GITHUB }}  # 添加这一行
