@@ -16,4 +16,3 @@ icon: note
 这就是我在做选择题和解答题上的一些思考。
 
 
-<div style="text-align:center"> Copyright© 2022 深圳云广度科技有限公司版权所有 备案号:<a href-"https://beian.miit.gov.cn">粤ICP备2022099746号-1</a></div>
