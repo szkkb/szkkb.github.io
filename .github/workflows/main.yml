@@ -4,7 +4,7 @@ on:
   push:
     branches:
       # 确保这是你正在使用的分支名称
-      - gh-pages
+      - main
 
 jobs:
   LearnData-build:
@@ -19,7 +19,7 @@ jobs:
           # submodules: true
 
       - name: Install pnpm
-        uses: pnpm/action-setup@v3
+        uses: pnpm/action-setup@v2
         with:
           version: 8
           run_install: true
@@ -48,3 +48,4 @@ jobs:
           env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}  # 添加这一行
           EMAIL_GITHUB: ${{ secrets.EMAIL_GITHUB }}  # 添加这一行
+
